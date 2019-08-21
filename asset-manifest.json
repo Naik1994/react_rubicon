@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react_rubicon/static/css/main.94920682.chunk.css",
+    "main.js": "/react_rubicon/static/js/main.ee82c2a8.chunk.js",
+    "main.js.map": "/react_rubicon/static/js/main.ee82c2a8.chunk.js.map",
+    "runtime~main.js": "/react_rubicon/static/js/runtime~main.f27ca9f1.js",
+    "runtime~main.js.map": "/react_rubicon/static/js/runtime~main.f27ca9f1.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/react_rubicon/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.df980a0d.chunk.js": "/react_rubicon/static/js/2.df980a0d.chunk.js",
+    "static/js/2.df980a0d.chunk.js.map": "/react_rubicon/static/js/2.df980a0d.chunk.js.map",
+    "index.html": "/react_rubicon/index.html",
+    "precache-manifest.3d405a9df97507de721fdf31153782d0.js": "/react_rubicon/precache-manifest.3d405a9df97507de721fdf31153782d0.js",
+    "service-worker.js": "/react_rubicon/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/react_rubicon/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.94920682.chunk.css.map": "/react_rubicon/static/css/main.94920682.chunk.css.map",
+    "static/media/Catalog_Master_Icon.svg": "/react_rubicon/static/media/Catalog_Master_Icon.0ca65cc6.svg",
+    "static/media/index.css": "/react_rubicon/static/media/login_bg.aeaef67c.jpg",
+    "static/media/rxjavalogo.png": "/react_rubicon/static/media/rxjavalogo.1921eb67.png"
+  }
+}
