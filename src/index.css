@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: url('./components/Signin/Images/login_bg.jpg') 0 0/cover no-repeat #47bac1;
 }
 
 code {

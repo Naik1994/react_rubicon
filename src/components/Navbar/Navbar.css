@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.toggle {
+  margin-left: 15px;
+  margin-top: 5px;
+  font-size: 26px;
+  cursor: pointer;
+}
+
+.wrap {
+  display: flex;
+}

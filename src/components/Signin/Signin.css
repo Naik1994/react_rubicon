@@ -1,0 +1,14 @@
+.box-bg {
+  background: #f6f7f9;
+  color: #666;
+}
+
+.container {
+  display: flex;
+}
+
+.no-bg:hover {
+  background: none;
+}
+
+.measure {}
